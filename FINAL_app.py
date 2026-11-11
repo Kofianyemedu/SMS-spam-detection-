@@ -15,7 +15,7 @@ import re
 import ssl
 from collections import Counter
 
-import matplotlib.pyplot as plt
+
 import numpy as np
 import nltk
 import pandas as pd
